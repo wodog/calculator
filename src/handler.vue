@@ -62,23 +62,25 @@
 	}
 </script>
 
-<style>
+<style lang="sass">
 
 	#handler ul {
 		margin: 0;
 		padding: 0;
 		font-size: 0;
-	}
-	#handler ul li {
-		font-size: 16px;
-		margin: 0;
-		padding: 0;
-		list-style:none;
-		display: inline-block;
-		width: 24.333333%;
-		border: 1px solid #ccc;
-		text-align: center;
-		height: 50px;
-		line-height: 50px;
+
+		li {
+			cursor: pointer;
+			font-size: 16px;
+			margin: 0;
+			padding: 0;
+			list-style:none;
+			display: inline-block;
+			width: 24.333333%;
+			border: 1px solid #ccc;
+			text-align: center;
+			height: 50px;
+			line-height: 50px;
+		}
 	}
 </style>
