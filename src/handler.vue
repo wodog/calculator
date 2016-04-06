@@ -76,7 +76,7 @@
 			padding: 0;
 			list-style:none;
 			display: inline-block;
-			width: 24.333333%;
+			width: 25%;
 			border: 1px solid #ccc;
 			text-align: center;
 			height: 50px;
